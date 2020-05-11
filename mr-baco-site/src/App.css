@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  background-color: #282c34;
+}
+
+/*@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}*/
+
+.App-header {
+  background-blend-mode: darkslategray;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  justify-content: last baseline;
+  font-size: calc(10px + 2vmin);
+  color: yellow;
+}
+
+.App-link {
+  color: #61dafb;
+}
