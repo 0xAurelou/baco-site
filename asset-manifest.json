@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/mr-baco-site/static/css/main.682c7957.chunk.css",
+    "main.js": "/mr-baco-site/static/js/main.bedccecd.chunk.js",
+    "main.js.map": "/mr-baco-site/static/js/main.bedccecd.chunk.js.map",
+    "runtime-main.js": "/mr-baco-site/static/js/runtime-main.2fb3ff5f.js",
+    "runtime-main.js.map": "/mr-baco-site/static/js/runtime-main.2fb3ff5f.js.map",
+    "static/js/2.e0edff92.chunk.js": "/mr-baco-site/static/js/2.e0edff92.chunk.js",
+    "static/js/2.e0edff92.chunk.js.map": "/mr-baco-site/static/js/2.e0edff92.chunk.js.map",
+    "index.html": "/mr-baco-site/index.html",
+    "precache-manifest.135ddb20e0f2e2d82c4cc6b3d3c5f481.js": "/mr-baco-site/precache-manifest.135ddb20e0f2e2d82c4cc6b3d3c5f481.js",
+    "service-worker.js": "/mr-baco-site/service-worker.js",
+    "static/css/main.682c7957.chunk.css.map": "/mr-baco-site/static/css/main.682c7957.chunk.css.map",
+    "static/js/2.e0edff92.chunk.js.LICENSE.txt": "/mr-baco-site/static/js/2.e0edff92.chunk.js.LICENSE.txt",
+    "static/media/3d.PNG": "/mr-baco-site/static/media/3d.c4821026.PNG",
+    "static/media/AI.PNG": "/mr-baco-site/static/media/AI.8543c70a.PNG",
+    "static/media/Aurelien.png": "/mr-baco-site/static/media/Aurelien.7ac8d8c1.png",
+    "static/media/Bilal.png": "/mr-baco-site/static/media/Bilal.7ccdd36e.png",
+    "static/media/CDC1.png": "/mr-baco-site/static/media/CDC1.a5a56364.png",
+    "static/media/Charles.png": "/mr-baco-site/static/media/Charles.22929bdd.png",
+    "static/media/Game.jpg": "/mr-baco-site/static/media/Game.0c2df516.jpg",
+    "static/media/Maya.PNG": "/mr-baco-site/static/media/Maya.c49526bf.PNG",
+    "static/media/Montagne1.jpg": "/mr-baco-site/static/media/Montagne1.79802de4.jpg",
+    "static/media/Omar.png": "/mr-baco-site/static/media/Omar.ea0447c1.png",
+    "static/media/Unity.jpg": "/mr-baco-site/static/media/Unity.3dff23e7.jpg",
+    "static/media/affiche1.jpg": "/mr-baco-site/static/media/affiche1.fad73f48.jpg",
+    "static/media/agency.min.css": "/mr-baco-site/static/media/header-bg.a6eb148c.jpg",
+    "static/media/hero1.jpg": "/mr-baco-site/static/media/hero1.47af7889.jpg",
+    "static/media/photon1.jpg": "/mr-baco-site/static/media/photon1.1c3ff77e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fb3ff5f.js",
+    "static/js/2.e0edff92.chunk.js",
+    "static/css/main.682c7957.chunk.css",
+    "static/js/main.bedccecd.chunk.js"
+  ]
+}
