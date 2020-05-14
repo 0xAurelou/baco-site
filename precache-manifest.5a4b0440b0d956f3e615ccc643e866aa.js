@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f5ac5005e633d68bdb4b87b23932314",
+    "revision": "37d6534e254787d1e4959512eaffe524",
     "url": "/baco-site/index.html"
   },
   {
