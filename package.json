@@ -38,7 +38,7 @@
     "gh-pages": "^2.2.0"
   },
   "main": "index.js",
-  "repository": "git@github.com:Aurel1FR/mr-baco-site.git",
+  "repository": "git@github.com:wappa/baco-site.git",
   "author": "Aurelien Isak <aurelien.isak@epita.fr>",
   "license": "MIT"
 }
