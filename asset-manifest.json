@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/baco-site/static/css/main.8d9b8dbb.chunk.css",
-    "main.js": "/baco-site/static/js/main.5ed419c9.chunk.js",
-    "main.js.map": "/baco-site/static/js/main.5ed419c9.chunk.js.map",
-    "runtime-main.js": "/baco-site/static/js/runtime-main.f1813a7a.js",
-    "runtime-main.js.map": "/baco-site/static/js/runtime-main.f1813a7a.js.map",
-    "static/js/2.e0edff92.chunk.js": "/baco-site/static/js/2.e0edff92.chunk.js",
-    "static/js/2.e0edff92.chunk.js.map": "/baco-site/static/js/2.e0edff92.chunk.js.map",
+    "main.css": "/baco-site/static/css/main.91cba830.chunk.css",
+    "main.js": "/baco-site/static/js/main.c18cc5e3.chunk.js",
+    "main.js.map": "/baco-site/static/js/main.c18cc5e3.chunk.js.map",
+    "runtime-main.js": "/baco-site/static/js/runtime-main.0461563b.js",
+    "runtime-main.js.map": "/baco-site/static/js/runtime-main.0461563b.js.map",
+    "static/js/2.9a139d10.chunk.js": "/baco-site/static/js/2.9a139d10.chunk.js",
+    "static/js/2.9a139d10.chunk.js.map": "/baco-site/static/js/2.9a139d10.chunk.js.map",
     "index.html": "/baco-site/index.html",
-    "precache-manifest.af13cd38cf9fe84530e966dcbb40977e.js": "/baco-site/precache-manifest.af13cd38cf9fe84530e966dcbb40977e.js",
+    "precache-manifest.4caa86fe7f4d396aeea990d8417dbca7.js": "/baco-site/precache-manifest.4caa86fe7f4d396aeea990d8417dbca7.js",
     "service-worker.js": "/baco-site/service-worker.js",
-    "static/css/main.8d9b8dbb.chunk.css.map": "/baco-site/static/css/main.8d9b8dbb.chunk.css.map",
-    "static/js/2.e0edff92.chunk.js.LICENSE.txt": "/baco-site/static/js/2.e0edff92.chunk.js.LICENSE.txt",
+    "static/css/main.91cba830.chunk.css.map": "/baco-site/static/css/main.91cba830.chunk.css.map",
+    "static/js/2.9a139d10.chunk.js.LICENSE.txt": "/baco-site/static/js/2.9a139d10.chunk.js.LICENSE.txt",
     "static/media/3d.PNG": "/baco-site/static/media/3d.c4821026.PNG",
     "static/media/AI.PNG": "/baco-site/static/media/AI.8543c70a.PNG",
     "static/media/Aurelien.png": "/baco-site/static/media/Aurelien.7ac8d8c1.png",
@@ -29,9 +29,9 @@
     "static/media/photon1.jpg": "/baco-site/static/media/photon1.1c3ff77e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1813a7a.js",
-    "static/js/2.e0edff92.chunk.js",
-    "static/css/main.8d9b8dbb.chunk.css",
-    "static/js/main.5ed419c9.chunk.js"
+    "static/js/runtime-main.0461563b.js",
+    "static/js/2.9a139d10.chunk.js",
+    "static/css/main.91cba830.chunk.css",
+    "static/js/main.c18cc5e3.chunk.js"
   ]
 }
