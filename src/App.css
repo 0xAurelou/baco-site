@@ -28,3 +28,12 @@
 .App-link {
   color: #61dafb;
 }
+
+.col-centered{
+  float: none;
+  margin: 0 auto;
+}
+
+.Form {
+  align-items: center;
+}

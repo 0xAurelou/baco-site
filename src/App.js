@@ -6,11 +6,14 @@ import Aurelien from './Image/Aurelien.png'
 import Portfolio from './components/Portfolio'
 import Portfolio2 from './components/Portfolio2'
 import './App.css';
+import Formulaire from './components/Form'
 
 function App() {
   const portfolioLinks = [ ]
 
   const portfolioLinks2 = [ ]
+
+  const formulaire = [ ]
 
   return (
     <div className="App">
@@ -340,7 +343,9 @@ function App() {
     </div>
   </section>
 
-  <section className="page-section" id="contact">
+  <Formulaire form={formulaire}> </Formulaire>
+
+  {/*<section className="page-section" id="contact">
     <div className="container">
       <div className="row">
         <div className="col-lg-12 text-center">
@@ -382,7 +387,7 @@ function App() {
         </div>
       </div>
     </div>
-  </section>
+</section>  */}
 
   
   <footer className="footer">
