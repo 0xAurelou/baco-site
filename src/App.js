@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from '@material-ui/core/Button'
 import Omar from './Image/Omar.png'
 import Charles from './Image/Charles.png'
 import Bilal from './Image/Bilal.png'
@@ -58,6 +59,17 @@ function App() {
     </div>
   </header>
 
+  <section className="page-section" id="DownLoadGame">
+  <div className="container">
+      <div className="row">
+        <div className= "col-sm-12 text-center">
+          <h1 className="section-heading text">Download MrBaco</h1>
+            <a className = "btn btn-primary btn-xl text-uppercase" href="">Begin Download</a>
+            <a href="f11.png" ></a>
+            </div>  
+      </div>
+      </div>
+  </section>
   
   <section className="page-section" id="services">
     <div className="container">
