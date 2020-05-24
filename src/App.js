@@ -63,12 +63,12 @@ function App() {
   <div className="container">
       <div className="row">
         <div className= "col-sm-12 text-center">
-          <h1 className="section-heading text">Download MrBaco</h1>
-            <a className = "btn btn-primary btn-xl text-uppercase" href="">Begin Download</a>
-            <a href="f11.png" ></a>
-            </div>  
+          <h1 className="section-heading text">Télécharger MrBaco</h1>
+            <a className = "btn btn-primary btn-xl text-uppercase" href="Begin Download"
+            download ="game.zip">Commencez-Ici</a>
+        </div>  
       </div>
-      </div>
+  </div>
   </section>
   
   <section className="page-section" id="services">
