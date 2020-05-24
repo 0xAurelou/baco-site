@@ -65,7 +65,7 @@ function App() {
         <div className= "col-sm-12 text-center">
           <h1 className="section-heading text">Télécharger MrBaco</h1>
             <a className = "btn btn-primary btn-xl text-uppercase" href="Begin Download"
-            download ="game.zip">Commencez-Ici</a>
+            download ="game.exe">Commencez-Ici</a>
         </div>  
       </div>
   </div>
