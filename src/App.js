@@ -183,28 +183,7 @@ function App() {
     
     
 
-  <section classname = "page-section" id= "DownLoad Report">
-    <div classname = "Container">
-      <div classname = "row">
-        <div classname="col-lg-12 text-center">
-          <h2 classname= "secton-heading text-uppercasee">Telecharger les rapports</h2>
-          <h3 classname = "section heading">Premier Rapport </h3>
-          <a className = "btn btn-primary btn-xl text-uppercase" href="./Compte_Rendu_1ere_Soutenance.pdf"
-            download ="Compte_Rendu_1ere_Soutenance.pdf">Télécharger le Premier rapport</a>
-        </div>
-          <div classname = "col-lg-12 text-center">
-          <h3 classname= "secton-heading text-uppercasee">Second Rapport</h3>
-          <a className = "btn btn-primary btn-xl text-uppercase" href="./Compte_Rendu_2nd_Soutenance.pdf"
-            download ="Compte_Rendu_2nd_Soutenance.pdf">Télécharger le Second rapport</a>
-          </div>
-          <div classname = "col-lg-12 text-center">
-          <h2 classname= "secton-heading text-uppercasee">Dernier Rapport</h2>
-          <a className = "btn btn-primary btn-xl text-uppercase" href="./Compte_Rendu_3nd_Soutenance.pdf"
-            download ="Compte_Rendu_3nd_Soutenance.pdf">Télécharger le Dernier rapport</a>
-          </div>
-      </div>
-    </div>
-  </section>
+  
 
   <section className="page-section" id="SecondePres">
     <div className="container">
@@ -300,6 +279,29 @@ function App() {
             </li>
           </ul>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <section classname = "page-section" id= "DownLoad Report">
+    <div classname = "Container">
+      <div classname = "row">
+        <div classname="col-lg-12 text-center">
+          <h2 classname= "secton-heading text-uppercasee">Telecharger les rapports</h2>
+          <h3 classname = "section heading">Premier Rapport </h3>
+          <a className = "btn btn-primary btn-xl text-uppercase" href="./Compte_Rendu_1ere_Soutenance.pdf"
+            download ="Compte_Rendu_1ere_Soutenance.pdf">Télécharger le Premier rapport</a>
+        </div>
+          <div classname = "col-lg-12 text-center">
+          <h3 classname= "secton-heading text-uppercasee">Second Rapport</h3>
+          <a className = "btn btn-primary btn-xl text-uppercase" href="./Compte_Rendu_2nd_Soutenance.pdf"
+            download ="Compte_Rendu_2nd_Soutenance.pdf">Télécharger le Second rapport</a>
+          </div>
+          <div classname = "col-lg-12 text-center">
+          <h2 classname= "secton-heading text-uppercasee">Dernier Rapport</h2>
+          <a className = "btn btn-primary btn-xl text-uppercase" href="./Compte_Rendu_3nd_Soutenance.pdf"
+            download ="Compte_Rendu_3nd_Soutenance.pdf">Télécharger le Dernier rapport</a>
+          </div>
       </div>
     </div>
   </section>
