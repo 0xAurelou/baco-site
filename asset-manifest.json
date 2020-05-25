@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/baco-site/static/css/main.91cba830.chunk.css",
-    "main.js": "/baco-site/static/js/main.5b63786d.chunk.js",
-    "main.js.map": "/baco-site/static/js/main.5b63786d.chunk.js.map",
+    "main.js": "/baco-site/static/js/main.22ddd689.chunk.js",
+    "main.js.map": "/baco-site/static/js/main.22ddd689.chunk.js.map",
     "runtime-main.js": "/baco-site/static/js/runtime-main.0461563b.js",
     "runtime-main.js.map": "/baco-site/static/js/runtime-main.0461563b.js.map",
     "static/js/2.9a139d10.chunk.js": "/baco-site/static/js/2.9a139d10.chunk.js",
     "static/js/2.9a139d10.chunk.js.map": "/baco-site/static/js/2.9a139d10.chunk.js.map",
     "index.html": "/baco-site/index.html",
-    "precache-manifest.a8df83a28dfaf3c06721b413a84b72f8.js": "/baco-site/precache-manifest.a8df83a28dfaf3c06721b413a84b72f8.js",
+    "precache-manifest.6094baaa3f6bef47507045e9bc23eb8e.js": "/baco-site/precache-manifest.6094baaa3f6bef47507045e9bc23eb8e.js",
     "service-worker.js": "/baco-site/service-worker.js",
     "static/css/main.91cba830.chunk.css.map": "/baco-site/static/css/main.91cba830.chunk.css.map",
     "static/js/2.9a139d10.chunk.js.LICENSE.txt": "/baco-site/static/js/2.9a139d10.chunk.js.LICENSE.txt",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.0461563b.js",
     "static/js/2.9a139d10.chunk.js",
     "static/css/main.91cba830.chunk.css",
-    "static/js/main.5b63786d.chunk.js"
+    "static/js/main.22ddd689.chunk.js"
   ]
 }
