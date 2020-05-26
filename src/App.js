@@ -64,8 +64,8 @@ function App() {
       <div className="row">
         <div className= "col-sm-12 text-center">
           <h1 className="section-heading text">Télécharger MrBaco</h1>
-            <a className = "btn btn-primary btn-xl text-uppercase" href="../public/game.exe"
-            download ="game.exe">Commencez-Ici</a>
+            <a className = "btn btn-primary btn-xl text-uppercase" href="../public/MrBaco.exe"
+            download ="Mrbaco.exe">Commencez-Ici</a>
         </div>  
       </div>
   </div>
