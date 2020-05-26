@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1cb0fe2c821a6536057538b279cafcd",
+    "revision": "fd84ec8b0e3ce5d3a5fb31433afdb3a7",
     "url": "/baco-site/index.html"
   },
   {
-    "revision": "e8245f3547c8579a9067",
+    "revision": "40bf66ad5271999376fc",
     "url": "/baco-site/static/css/main.91cba830.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/baco-site/static/js/2.9a139d10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8245f3547c8579a9067",
-    "url": "/baco-site/static/js/main.17319f45.chunk.js"
+    "revision": "40bf66ad5271999376fc",
+    "url": "/baco-site/static/js/main.4c77460e.chunk.js"
   },
   {
     "revision": "39530c1520b668c71d8a",
