@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5381616210b3e7cb415d8d54f0772830",
+    "revision": "25e219dc2ca573d45be2b1cd424c8016",
     "url": "/baco-site/index.html"
   },
   {
-    "revision": "e052ea635fd5f8f21a30",
-    "url": "/baco-site/static/css/main.ffd2124d.chunk.css"
+    "revision": "ac37e7525281303d7a4b",
+    "url": "/baco-site/static/css/main.91cba830.chunk.css"
   },
   {
-    "revision": "dd61d547d821c25dc9c8",
-    "url": "/baco-site/static/js/2.997148f8.chunk.js"
+    "revision": "881b93bf134542a447f0",
+    "url": "/baco-site/static/js/2.1697836b.chunk.js"
   },
   {
-    "revision": "01db6d71f6e68c65cbadcd827fe5eada",
-    "url": "/baco-site/static/js/2.997148f8.chunk.js.LICENSE.txt"
+    "revision": "2954b1568600ec1d7b70d079ce9ac1a4",
+    "url": "/baco-site/static/js/2.1697836b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e052ea635fd5f8f21a30",
-    "url": "/baco-site/static/js/main.51bab7b1.chunk.js"
+    "revision": "ac37e7525281303d7a4b",
+    "url": "/baco-site/static/js/main.6ac1c63f.chunk.js"
   },
   {
-    "revision": "448ea4b2fe36040f1348",
-    "url": "/baco-site/static/js/runtime-main.f1813a7a.js"
+    "revision": "0532aa0acc2438daa833",
+    "url": "/baco-site/static/js/runtime-main.134c3ed7.js"
   },
   {
     "revision": "c48210260f883b3b6fabda1cd5a737ba",
