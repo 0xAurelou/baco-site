@@ -64,8 +64,7 @@ function App() {
       <div className="row">
         <div className= "col-sm-12 text-center">
           <h1 className="section-heading text">Télécharger MrBaco et voir le Trailer</h1>
-          <h2 className ="subtitle"> Please Copy This link in your broswer:</h2>
-          <h3 className="subtitle">https://mega.nz/folder/vV4BlKaJ#Ldd1jWKTOu1thiIx1Hq72Q</h3>
+          <Button onClick={event =>  window.location.href='https://mega.nz/folder/vV4BlKaJ#Ldd1jWKTOu1thiIx1Hq72Q'}> Commencez Ici </Button>
         </div>  
       </div>
   </div>
