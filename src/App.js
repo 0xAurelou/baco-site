@@ -63,8 +63,9 @@ function App() {
   <div className="container">
       <div className="row">
         <div className= "col-sm-12 text-center">
-          <h1 className="section-heading text">Télécharger MrBaco</h1>
-            <a className = "btn btn-primary btn-xl text-uppercase" href="./MrBaco.exe" download ="MrBaco.exe">Commencez-Ici</a>
+          <h1 className="section-heading text">Télécharger MrBaco et voir le Trailer</h1>
+          <h2 className ="subtitle"> Please Copy This link in your broswer:</h2>
+          <h3 className="subtitle">https://mega.nz/folder/vV4BlKaJ#Ldd1jWKTOu1thiIx1Hq72Q</h3>
         </div>  
       </div>
   </div>
